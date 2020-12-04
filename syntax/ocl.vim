@@ -1,7 +1,7 @@
 " Vim syntax file
 " Language:    OCL
 " Maintainer:  Guillaume Poirier-Morency <guillaumepoiriermorency@gmail.com>
-" URL:         https://github.com/arteymix/vim-ocl
+" URL:         https://github.com/zodd18/vim-ocl
 " Last Change: 2014-11-4
 " Filenames:   *.use
 " Version:     0.0.1
