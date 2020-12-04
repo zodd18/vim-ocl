@@ -3,7 +3,7 @@
 " Maintainer:  Guillaume Poirier-Morency <guillaumepoiriermorency@gmail.com>
 " URL:         https://github.com/zodd18/vim-ocl
 " Last Change: 2014-11-4
-" Filenames:   *.use
+" Filenames:   *.use, *.ocl
 " Version:     0.0.1
 "
 " It has basic support for type detection, identifiers and keywords.
